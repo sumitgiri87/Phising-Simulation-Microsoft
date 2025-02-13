@@ -72,20 +72,20 @@ This email contains privileged and confidential information intended only for th
 
 ## **Slide 3: Learn to Spot Phishing Emails**
 **Key Signs of Phishing Emails:**
-✅ **Suspicious Sender:** The sender’s email address is slightly altered (e.g., `security@mastercard-secure.com` instead of `security@mastercard.com`).
-✅ **Urgency & Threats:** "Immediate action required! Your account will be locked!"
-✅ **Poor Grammar & Spelling:** Phishing emails often have noticeable errors.
-✅ **Mismatched URLs:** Hover over links before clicking! A link that claims to be `mastercard.com` might actually be `mastercard-login.secure-update.com`
-✅ **Unusual Attachments:** Unexpected invoices, receipts, or password-protected files.
+- ✅ **Suspicious Sender:** The sender’s email address is slightly altered (e.g., `security@mastercard-secure.com` instead of `security@mastercard.com`).
+- ✅ **Urgency & Threats:** "Immediate action required! Your account will be locked!"
+- ✅ **Poor Grammar & Spelling:** Phishing emails often have noticeable errors.
+- ✅ **Mismatched URLs:** Hover over links before clicking! A link that claims to be `mastercard.com` might actually be `mastercard-login.secure-update.com`
+- ✅ **Unusual Attachments:** Unexpected invoices, receipts, or password-protected files.
 
 ---
 
 ## **Slide 4: How to Stop Getting Phished**
-🔹 **Think Before You Click:** Hover over links to check authenticity.
-🔹 **Verify the Sender:** If in doubt, contact IT or the sender directly.
-🔹 **Report Suspicious Emails:** Use the company’s phishing report tool or forward to IT Security.
-🔹 **Use Multi-Factor Authentication (MFA):** Even if your password is stolen, MFA can prevent access.
-🔹 **Stay Updated on Phishing Tactics:** Regular security awareness training will keep you informed.
+-🔹 **Think Before You Click:** Hover over links to check authenticity.
+-🔹 **Verify the Sender:** If in doubt, contact IT or the sender directly.
+-🔹 **Report Suspicious Emails:** Use the company’s phishing report tool or forward to IT Security.
+-🔹 **Use Multi-Factor Authentication (MFA):** Even if your password is stolen, MFA can prevent access.
+-🔹 **Stay Updated on Phishing Tactics:** Regular security awareness training will keep you informed.
 
 ---
 
