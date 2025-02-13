@@ -1,10 +1,11 @@
+# Phishing Email Simulation Training
 
+This repository is part of the Microsoft Virtual Internship on Forage, focusing on creating a phishing email training and awareness program. The context behind this project is that a previous phishing email simulation was not successful because the email did not look legitimate enough to effectively raise awareness.
 
+**Context:**  
+The task at hand is to craft a phishing email simulation designed to raise awareness about one of the most common threats organizations face today: phishing attacks.
 
-
-# Phishing Simulation Email Example
-
-This is a sample phishing email designed for educational and training purposes. It simulates a security alert from Mastercard, urging the recipient to reset their password due to suspicious login activity. This is intended to help users learn how to recognize phishing attempts.
+In Task 1, we are crafting a more convincing phishing email that could be used in training exercises to help individuals recognize phishing attempts and understand how to protect themselves from falling victim to such attacks.
 
 ---
 
@@ -48,4 +49,3 @@ This email contains privileged and confidential information intended only for th
 ---
 
 **Note:** This content is for training purposes only and should not be used for malicious activities.
-
